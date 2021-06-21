@@ -1,2 +1,1 @@
-# Rangu
-r
+# Ran
